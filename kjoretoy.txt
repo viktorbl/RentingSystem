@@ -1,0 +1,9 @@
+b,BM12345,BMW,2012,4,70.0,BMW2012.jpg
+b,FP12345,Folswagen Passat,2015,4,60.0,Folswagen_Passat.jpg
+b,TC12345,Toyota Corolla,2008,4,50.0,Toyota_Corolla.jpg
+b,OV12345,Opel Vectra,2008,4,55.0,C:\Users\vikto\Desktop\java\BilRent\Opel_Vectra.jpg
+m,EN12348,BMW K 1600,2015,1,40.0,BMW.jpg
+m,EN12341,Kawasaki,2016,1,50.0,Kawasaki.png
+m,EN12342,Honda,2007,1,60.0,Honda.jpg
+p,EN12333,Piaggio,2012,1,20.0,Piaggio.jpg
+p,EN12334,MopedU Powersports,2014,1,30.0,MopedU_Powersports.jpg

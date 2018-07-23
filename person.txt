@@ -1,0 +1,4 @@
+k, 07108432424, Viktorija, Blaziene
+k, 07108432425, Bjørn, Bjørnson
+k, 07108432425, Jonas, Johansen
+a, 07108432427, Jonas, Jonson
